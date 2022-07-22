@@ -22,8 +22,6 @@
 
 int commandChoice;
 
-int choice;
-
 void intro(void);
 
 void outro(void);
