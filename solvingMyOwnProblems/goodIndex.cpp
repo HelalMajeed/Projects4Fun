@@ -1,3 +1,12 @@
+// the question is:
+// check if after rearrange the given array of n positive integer can get this order:
+// if i is even and a[i] is even and a[i+1] should be odd due to i + 1
+// if i is odd and a[i] is odd and a[i+1] should be even due to i + 1
+// if we can get this order then pirnt yes otherwise print no 
+// and print the order with both cases.
+
+
+
 #include <iostream> 
 #include <vector> 
 using namespace std;
