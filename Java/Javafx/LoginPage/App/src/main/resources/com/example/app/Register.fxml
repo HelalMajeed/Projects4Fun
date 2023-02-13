@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.app.RegisterController">
+    <children>
+        <TextField fx:id="username" layoutX="397.0" layoutY="111.0" prefHeight="31.0" prefWidth="171.0" promptText="Username" />
+        <PasswordField fx:id="password" layoutX="400.0" layoutY="161.0" prefHeight="31.0" prefWidth="171.0" promptText="Password" />
+        <Button layoutX="259.0" layoutY="349.0" mnemonicParsing="false" onAction="#backToLoginPage" prefHeight="22.0" prefWidth="114.0" style="-fx-background-color: #00A0FF;" text="Back" textFill="WHITE">
+            <font>
+                <Font size="14.0" />
+            </font>
+        </Button>
+        <AnchorPane prefHeight="89.0" prefWidth="600.0" style="-fx-background-color: #00A0FF;">
+            <children>
+                <Label layoutX="32.0" layoutY="34.0" text="REGISTER" textFill="WHITE">
+                    <font>
+                        <Font name="SansSerif Italic" size="18.0" />
+                    </font>
+                </Label>
+            </children>
+        </AnchorPane>
+      <TextField fx:id="firstName" layoutX="55.0" layoutY="111.0" prefHeight="31.0" prefWidth="171.0" promptText="First Name" />
+      <PasswordField fx:id="confirmPassword" layoutX="400.0" layoutY="210.0" prefHeight="31.0" prefWidth="171.0" promptText="Confirm Password" />
+      <TextField fx:id="lastName" layoutX="55.0" layoutY="161.0" prefHeight="31.0" prefWidth="171.0" promptText="Last Name" />
+      <TextField fx:id="email" layoutX="55.0" layoutY="210.0" prefHeight="31.0" prefWidth="171.0" promptText="Email" />
+      <TextField fx:id="phone" layoutX="55.0" layoutY="256.0" prefHeight="31.0" prefWidth="171.0" promptText="Phone" />
+      <DatePicker fx:id="birthday" layoutX="400.0" layoutY="260.0" prefHeight="24.0" prefWidth="165.0" promptText="Birthday" />
+      <Button layoutX="259.0" layoutY="302.0" mnemonicParsing="false" onAction="#afterRegister" prefHeight="22.0" prefWidth="114.0" style="-fx-background-color: #00A0FF;" text="Register" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+    </children>
+</AnchorPane>
