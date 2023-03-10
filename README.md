@@ -1,7 +1,11 @@
 # Projects4Fun includes:
+<br>
   *Webiste applications
+  <br>
   *GUI applications
+  <br>
   *Terminal applications
+  <br>
   *Ronadom games
 <br>
 #Web
