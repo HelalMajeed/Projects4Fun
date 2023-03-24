@@ -35,5 +35,5 @@ The Student Record Management System will consist of the following modules:
 
 * User Interface Module: This module will provide a user-friendly interface for administrators to interact with the system. The interface will be a command-line interface (CLI), providing a simple and efficient way to perform necessary tasks.
 
-* Conclusion:
+<b>Conclusion:</b><br>
 The Student Record Management System is a comprehensive software application designed to help educational institutions manage student records efficiently. With its user-friendly interface and powerful features, the system is an ideal tool for administrators to manage student data, generate reports, and perform statistical analysis.
