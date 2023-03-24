@@ -1,6 +1,6 @@
 # Student Record Management System
 
-* Project Description:
+<b>Project Description:</b>
 The Student Record Management System is a software application that helps in managing student records for an educational institution. The system is designed to store and manage data related to students, courses, and grades.
 
 The system allows administrators to perform various operations, including adding, deleting, and modifying student records, course records, and grade records. It also allows them to generate reports and statistical analysis on student performance.
