@@ -4,4 +4,4 @@
 * Terminal applications.
 * Ronadom Games.
 * Some problems and solutions.
-* <div style="color: red;"> Other. </div>
+* <div font-size="800px"> Other. </div>
