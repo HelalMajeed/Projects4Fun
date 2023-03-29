@@ -23,7 +23,8 @@
 	</div>
 </body>
 
-</html>'''
+</html>
+'''
 ### CSS
 ```css
 .body {
