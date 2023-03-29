@@ -5,3 +5,6 @@
 * Ronadom Games.
 * Some problems and solutions.
 * Other.
+```cpp
+cout << "DONE" << endl;
+```
