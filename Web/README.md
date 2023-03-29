@@ -25,7 +25,9 @@
 
 </html>
 '''
+
 ### CSS
+
 ```css
 .body {
     min-width: 400px;
@@ -240,4 +242,5 @@
     display: flex;
     transition-duration: 1s;
     border-radius: 5%;
-}```
+}
+```
